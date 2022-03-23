@@ -2,7 +2,7 @@
 
 An interview task created by Polymathian.
 
-Completed by: <Xi Rao>
+Completed by: Xi Rao
 
 ## License
 
